@@ -1,7 +1,7 @@
 ---
 title: Just a little more about me...
 author: ''
-date: '2020-12-10'
+date: '2020-12-08'
 slug: just-a-little-more-about-me
 categories: []
 tags: []
