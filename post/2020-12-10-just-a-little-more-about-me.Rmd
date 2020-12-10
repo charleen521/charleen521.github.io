@@ -1,0 +1,17 @@
+---
+title: Just a little more about me...
+author: ''
+date: '2020-12-10'
+slug: just-a-little-more-about-me
+categories: []
+tags: []
+description: ''
+---
+
+Hello! I am currently a senior here at the University of Texas at Austin and plan to graduate in May 2021. I am 
+originally from Dallas, TX and moved to Austin for school. After my years at UT, I hope to go into the medical field
+but for now I currently enjoy the jobs I have including teaching as a undergraduate TA and tutor and working with a
+doctor as a clinical assistant. Some hobbies of mine include traveling, cooking, and finding the best local food spots but of course I also love Netflix binges. Below are just some pictures from my last trip to Greece.
+
+![](/post/2020-12-10-just-a-little-more-about-me_files/IMG_1749.jpg)
+![](/post/2020-12-10-just-a-little-more-about-me_files/IMG_1750.jpg)
