@@ -10,7 +10,9 @@ description: ''
 
 One of the classes that I really enjoyed here at UT was CS324E which is Elements of Graphics and Visualization. We created a lot of cool graphics and animations projects and even made games. 
 
-This first one was my final project and definitely my favorite. We made a game to catch all of Santa's Lost Presents! You can find the demo video [here](https://youtu.be/kXNU-pjiayc)!
-![](/post/2020-12-10-some-cool-projects_files/fp.PNG){width=200px height=200px}
+This first one was my final project and definitely my favorite. We made a game to catch all of Santa's Lost Presents! 
+<iframe width="420" height="315"
+src="https://youtu.be/kXNU-pjiayc">
+</iframe>
 
 Some other examples include a physics-based animation which can be viewed [here](https://youtu.be/106DSL0I9cQ) and a very basic animation which can be viewed [here](https://youtu.be/IVF-gER-MUU).

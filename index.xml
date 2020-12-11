@@ -24,7 +24,8 @@ library(reticulate) import re string5=&amp;quot;ATGGCAATAACCCCCCGTTTCTACTTCTAGAG
       
       <guid>/post/2020/12/10/some-cool-projects/</guid>
       <description>One of the classes that I really enjoyed here at UT was CS324E which is Elements of Graphics and Visualization. We created a lot of cool graphics and animations projects and even made games.
-This first one was my final project and definitely my favorite. We made a game to catch all of Santa’s Lost Presents! You can find the demo video here! Some other examples include a physics-based animation which can be viewed here and a very basic animation which can be viewed here.</description>
+This first one was my final project and definitely my favorite. We made a game to catch all of Santa’s Lost Presents! 
+Some other examples include a physics-based animation which can be viewed here and a very basic animation which can be viewed here.</description>
     </item>
     
     <item>
